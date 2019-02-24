@@ -6,11 +6,11 @@ The software to generate the path files is written in [MatLab](https://www.mathw
 
 Simply start one of the example files, e.g. example_einstein.m
 
-####Python
+#### Python
 
 The conversion to gcode is currently written in Python. The python scripts are in [this folder](https://github.com/bdring/StringArt/tree/master/python).
 
-####Ready Examples
+#### Ready Examples
 
 Paths that are already generated are in the [ready_examples](https://github.com/bdring/StringArt/tree/master/ready_examples) folder with low res previews.
 
