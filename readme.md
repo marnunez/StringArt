@@ -1,4 +1,4 @@
-####String Art - A fork from [Exception1984/StringArt](Exception1984/StringArt)
+#### String Art - A fork from [Exception1984/StringArt](Exception1984/StringArt)
 
 #### Matlab
 
